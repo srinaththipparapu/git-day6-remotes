@@ -8,3 +8,5 @@ Learning Git remote repositories.
 - fetch
 - pull
 - push
+
+Remote developer change
